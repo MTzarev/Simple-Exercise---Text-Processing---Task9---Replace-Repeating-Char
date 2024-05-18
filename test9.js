@@ -8,4 +8,4 @@ function test9(input) {
     }
     console.log(newArr.join(``));
 }
-test9('qqqwerqwecccwd')
+test9('qqqwerqwecccwd');
